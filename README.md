@@ -1,7 +1,7 @@
 # 📱 Mobile Sales Analytics Dashboard
 ## A Dynamic Power BI Dashboard for Sales Performance & Customer Insights
 
-### An interactive and visually engaging dashboard designed to analyze mobile sales data across cities, brands, and customer behavior—helping uncover trends, optimize decisions, and track business performance.
+An interactive and visually engaging dashboard designed to analyze mobile sales data across cities, brands, and customer behavior—helping uncover trends, optimize decisions, and track business performance.
 
 ### 📌 Short Description / Purpose
 
@@ -47,35 +47,36 @@ Analyzes customer satisfaction and payment behavior
 Highlights trends across months and days
 
 ### 📊 Walkthrough of Key Visuals
-🔹 KPI Cards (Top Section)
+- KPI Cards (Top Section)
 Total Sales: 769M+
 Total Quantity: 19K+
 Total Transactions: 4K+
 Average Sales: 40K+
-🌍 Total Sales by City (Map)
+- 🌍 Total Sales by City (Map)
 Geographical visualization of sales distribution
 Highlights top-performing cities like Delhi, Mumbai, Bangalore
-📅 Total Quantity by Months (Line Chart)
+- 📅 Total Quantity by Months (Line Chart)
 Shows monthly sales trends
 Identifies peak months and seasonal patterns
-⭐ Customer Ratings (Bar Chart)
+- ⭐ Customer Ratings (Bar Chart)
 Distribution of ratings (1–5)
 Helps measure customer satisfaction
-💳 Transactions by Payment Method (Donut Chart)
+- 💳 Transactions by Payment Method (Donut Chart)
 Compares payment methods:
 UPI
 Debit Card
 Credit Card
 Cash
-📱 Total Sales by Mobile Model (Bar Chart)
+- 📱 Total Sales by Mobile Model (Bar Chart)
 Displays top-selling mobile models
 Helps identify product demand
-📆 Sales by Day Name (Line Chart)
+- 📆 Sales by Day Name (Line Chart)
 Compares weekday vs weekend sales trends
-🏷 Brand Performance Table
+- 🏷 Brand Performance Table
 Sales, quantity, and transactions by brand
 Highlights leaders like Apple, OnePlus, Samsung
-📈 Business Impact & Insights
+
+### 📈 Business Impact & Insights
 
 • 📍 City-Level Insights: Metro cities drive the majority of revenue
 • 📱 Brand Leadership: Apple dominates sales, followed by OnePlus and Samsung
