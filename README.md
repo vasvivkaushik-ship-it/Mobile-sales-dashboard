@@ -82,6 +82,7 @@ Highlights leaders like Apple, OnePlus, Samsung
 • 📅 Sales Trends: Mid-year months and weekends show higher sales
 
 ### 📸 Screenshots / Demo
+![Alt Text](https://github.com/vasvivkaushik-ship-it/Mobile-sales-dashboard/blob/main/Dashboard.jpeg)
 
 
 
